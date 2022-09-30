@@ -1,1 +1,1 @@
-# binance-tutorials
+It is an automated program that executes buy and sell orders with no manual input when specific, pre-defined market conditions are met.Real Time Trading Bot allows users to buy low and sell high in a specific price range.
